@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "304728537162",
+    "project_id": "hiltdemowithfirebasemessaging",
+    "storage_bucket": "hiltdemowithfirebasemessaging.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304728537162:android:6575a2e336670c94144eb3",
+        "android_client_info": {
+          "package_name": "com.ganesh.hilt.firebase.messaging"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCowaWL3neuj58mOfOucULN9LlGR07fvs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
